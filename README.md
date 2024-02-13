@@ -1,7 +1,7 @@
 # React.js Project
 
 ## Description
-This project is a [brief description of your project]. It was built using React.js, a popular JavaScript library for building user interfaces.
+These project  for learning reacts hooks and other features like context api etc . They  were built using React.js, a popular JavaScript library for building user interfaces.
 
 ## Table of Contents
 - [Installation](#installation)
